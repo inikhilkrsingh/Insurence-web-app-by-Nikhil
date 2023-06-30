@@ -1,2 +1,0 @@
-streamlit
-pycaret==3.0.0rc9
